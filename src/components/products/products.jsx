@@ -19,14 +19,14 @@ const btnStyle = {
   margin: "5px",
   textAlign: "center",
   padding: "10px",
-  borderRadius: "8px",
-  border: "1px solid #ccc",
-  backgroundColor: "#f0f0f0",
+  borderRadius: "1px",
+  boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
   cursor: "pointer",
   width: "80%",
+  color: "black",
 };
 const selectedBtnStyle = {
   ...btnStyle,

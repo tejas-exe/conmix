@@ -19,14 +19,16 @@ export function Home() {
           }}
         >
           <div className={s.parent}>
-            <span className={s.sliderBtn}>Conmix</span>
+            <span className={s.sliderBtn}>CONMIX RMC</span>
             <h2 className={s.sliderHeading}>Unbreakable and long lasting</h2>
             <h1 className={s.sliderHeading2}>Trust of Experts</h1>
             <p className={s.sliderContent}>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-              eum facere ipsa numquam non dignissimos quidem veritatis nobis
-              molestias at, labore nam nesciunt vero id aspernatur dicta
-              assumenda amet. Qui.
+              Welcome to CONMIX RMC, a trusted name in Ready Mix Concrete (RMC).
+              With 20+ years of excellence, we operate two advanced plants in
+              Surat and leading aggregate facilities in South Gujarat. Our
+              expert team delivers high-performance RMC tailored to your needs.
+              Our modern batching plant has a monthly capacity of 18,000 cubic
+              meters. Choose CONMIX RMC for quality and innovation!
             </p>
           </div>
         </div>
@@ -43,10 +45,14 @@ export function Home() {
             <h2 className={s.sliderHeading}>Best ready mix concrete for</h2>
             <h1 className={s.sliderHeading2}>Strong construction</h1>
             <p className={s.sliderContent}>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-              eum facere ipsa numquam non dignissimos quidem veritatis nobis
-              molestias at, labore nam nesciunt vero id aspernatur dicta
-              assumenda amet. Qui.
+              CONMIX upholds rigorous quality standards in design, development,
+              production, installation, and service, meeting international
+              benchmarks. We are dedicated to enhancing organizational
+              performance, efficiency, and effectiveness. Prioritizing the
+              health, safety, and environmental sustainability of our workforce,
+              we provide top-notch RMC solutions. Choose CONMIX RMC for quality
+              products and reliable services, your one-stop solution for
+              superior concrete needs.
             </p>
           </div>
         </div>
